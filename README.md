@@ -1,7 +1,7 @@
 [![pypresence](https://img.shields.io/badge/using-pypresence-00bb88.svg?style=for-the-badge&logo=discord&logoWidth=20)](https://github.com/qwertyquerty/pypresence)
 
 # SSISschemaRPC
-pip install urllib3
+pip install urllib3\
 pip install pypresence
 
 Discord Rich Prescence för SSIS schema
