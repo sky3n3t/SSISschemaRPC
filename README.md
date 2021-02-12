@@ -2,8 +2,8 @@
 
 # SSISschemaRPC
 Installera dessa\
-*pip install urllib3\
-*pip install pypresence
+*pip install urllib3\*
+pip install pypresence
 
 Discord Rich Prescence för SSIS schema\
 För att få ditt egna applicationID så måste du skapa en application på
